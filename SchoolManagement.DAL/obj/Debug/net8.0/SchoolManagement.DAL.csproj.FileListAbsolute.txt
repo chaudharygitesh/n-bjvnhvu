@@ -1,0 +1,14 @@
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\bin\Debug\net8.0\SchoolManagement.DAL.deps.json
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\bin\Debug\net8.0\SchoolManagement.DAL.runtimeconfig.json
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\bin\Debug\net8.0\SchoolManagement.DAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\bin\Debug\net8.0\SchoolManagement.DAL.pdb
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.AssemblyInfo.cs
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\refint\SchoolManagement.DAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.pdb
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\SchoolManagement.DAL.genruntimeconfig.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.DAL\obj\Debug\net8.0\ref\SchoolManagement.DAL.dll

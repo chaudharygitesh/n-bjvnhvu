@@ -1,0 +1,17 @@
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.BAL.deps.json
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.BAL.runtimeconfig.json
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.BAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.BAL.pdb
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.DAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\bin\Debug\net8.0\SchoolManagement.DAL.pdb
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.csproj.AssemblyReference.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.AssemblyInfoInputs.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.AssemblyInfo.cs
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.csproj.CoreCompileInputs.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolMa.1B9297CD.Up2Date
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\refint\SchoolManagement.BAL.dll
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.pdb
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\SchoolManagement.BAL.genruntimeconfig.cache
+C:\Users\gitesh.ms\source\repos\SchoolManagement\SchoolManagement.BAL\obj\Debug\net8.0\ref\SchoolManagement.BAL.dll

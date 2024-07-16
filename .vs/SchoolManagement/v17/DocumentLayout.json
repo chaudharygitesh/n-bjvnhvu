@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.bal\\serviceimplementation\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|solutionrelative:schoolmanagement.bal\\serviceimplementation\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.bal\\serviceinterface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|solutionrelative:schoolmanagement.bal\\serviceinterface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|solutionrelative:schoolmanagement.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.dal\\repositoryinterface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|solutionrelative:schoolmanagement.dal\\repositoryinterface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.dal\\datacontext\\applicationdbcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A7F3BE-1D60-40FC-A23B-DF47202B7FEA}|SchoolManagement.DAL\\SchoolManagement.DAL.csproj|solutionrelative:schoolmanagement.dal\\datacontext\\applicationdbcontxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F930EBC6-4886-4297-88CF-131AE479FA8C}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F930EBC6-4886-4297-88CF-131AE479FA8C}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F930EBC6-4886-4297-88CF-131AE479FA8C}|SchoolManagement\\SchoolManagement.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F930EBC6-4886-4297-88CF-131AE479FA8C}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|c:\\users\\gitesh.ms\\source\\repos\\schoolmanagement\\schoolmanagement.bal\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD67B32E-BEEE-4CB6-B668-B30F1A7D3D10}|SchoolManagement.BAL\\SchoolManagement.BAL.csproj|solutionrelative:schoolmanagement.bal\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\RepositoryInterface\\IRepository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.DAL\\RepositoryInterface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\RepositoryInterface\\IRepository.cs",
+              "RelativeToolTip": "SchoolManagement.DAL\\RepositoryInterface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:32:00.327Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "SchoolManagement.DAL\\Repository\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:50:48.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\ServiceImplementation\\Service.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.BAL\\ServiceImplementation\\Service.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\ServiceImplementation\\Service.cs",
+              "RelativeToolTip": "SchoolManagement.BAL\\ServiceImplementation\\Service.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T05:01:36.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\Dtos\\PatientDto.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.BAL\\Dtos\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\Dtos\\PatientDto.cs",
+              "RelativeToolTip": "SchoolManagement.BAL\\Dtos\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:01:21.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "SchoolManagement\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:55:51.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement\\Program.cs",
+              "RelativeToolTip": "SchoolManagement\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:36:23.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContxt.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\DataContext\\ApplicationDbContxt.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.DAL\\DataContext\\ApplicationDbContxt.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.DAL\\DataContext\\ApplicationDbContxt.cs",
+              "RelativeToolTip": "SchoolManagement.DAL\\DataContext\\ApplicationDbContxt.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:02:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\ServiceInterface\\IService.cs",
+              "RelativeDocumentMoniker": "SchoolManagement.BAL\\ServiceInterface\\IService.cs",
+              "ToolTip": "C:\\Users\\gitesh.ms\\source\\repos\\SchoolManagement\\SchoolManagement.BAL\\ServiceInterface\\IService.cs",
+              "RelativeToolTip": "SchoolManagement.BAL\\ServiceInterface\\IService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:21:01.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
